@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e9ecef;
+    height: 100vh;
+}
+
+#carouselExampleIndicators{
+    width: 70%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.vertical-center{
+    min-height: 100%;
+}
+
+.page-footer{
+    background-color: #212529;
+    color: white;
+}
+
+.carousel-item h5, .carousel-item p{
+    color: white;
+    margin-bottom: 0;
+}
+
+.carousel-item:after {
+    content:"";
+    display:block;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.2), rgba(0,0,0,0.7)) ;
+  }
