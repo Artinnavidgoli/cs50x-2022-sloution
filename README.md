@@ -22,7 +22,7 @@ discord: Artin#1241
 
 [discord server](https://discord.gg/4gYgnustX3)
 
-[page of progect](https://github.com/Artinnavidgoli/FasterNfc-cs50)
+[page of progect](https://github.com/Artinnavidgoli/cs50x-2022-sloution)
 
 [my github page](https://github.com/Artinnavidgoli)
 
