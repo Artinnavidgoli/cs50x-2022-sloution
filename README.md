@@ -20,7 +20,9 @@ if you want you check my other projects and my youtube chanel
 
 discord: Artin#1241
 
-[discord server](https://discord.gg/4gYgnustX3)
+[discord server (open Source project)](https://discord.gg/4gYgnustX3)
+
+[discord serverfor everyone](https://discord.gg/4gfjaPjv3Q)
 
 [page of progect](https://github.com/Artinnavidgoli/cs50x-2022-sloution)
 
